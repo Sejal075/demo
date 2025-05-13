@@ -3,5 +3,4 @@ Create a script
 #open file using nano editor and write command over there for creating folders and files automatically
 #change permissions using chmod +x command 
 #now use ./filename.sh command and enter
-#now you can list out the folders and files that are created using script in the folder 
-
+#now you can list out the folders and files that are created using script in the folder

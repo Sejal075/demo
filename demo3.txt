@@ -1,0 +1,13 @@
+steps to setup git
+> mkdir "dir name"
+> cd "dir name"
+> git init
+> git config --global user.name "your name"
+> git config --global user.email "your Email"
+> touch "filname"
+> git add <filename>
+> git commit -m "this is my first commite"
+> git pull <repo link>
+> git remote add origin <link>
+> git add <dir path or file or name>
+> git push origin <branch>
